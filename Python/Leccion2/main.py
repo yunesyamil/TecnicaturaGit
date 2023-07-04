@@ -9,6 +9,7 @@ elif condicion == False:
 else:
     print('Condición sin especificar')
 """
+"""
 
 # Ejercicio - Conversion de numero a texto
 
@@ -23,3 +24,11 @@ elif num == 3:
 else:
     numTexto = "Has infresado un número fuera de rango"
 print(f'El número ingresado es: {num} - {numTexto}')
+
+
+# COMPLETAR
+
+"""
+
+
+# EJERCICIO 1 - Escribir la expresion en forma de expresion algoritmica
