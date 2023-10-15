@@ -27,15 +27,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Yamil/TecnicaturaGit/Python/2 Segundo Semestre/Leccion5/Clase 5 Funciones P2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yamil/TecnicaturaGit/Python/2 Segundo Semestre/Leccion5/Clase 5 Funciones P2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.9 Funciones - argumentos, variables en funciones">
-    <configuration name="5 Lista Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.10 Ejercicio Funciones 01">
+    <configuration name="10 Ejercicio Funciones 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Clase 5 Funciones P2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Lista Comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Ejercicio Funciones 01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10 Ejercicio Funciones 01" />
         <item itemvalue="Python.9 Funciones - argumentos, variables en funciones" />
         <item itemvalue="Python.8 Funciones - Valores por default" />
         <item itemvalue="Python.7 Funciones - palabra return" />
         <item itemvalue="Python.6 Funciones - Paso de argumentos" />
-        <item itemvalue="Python.5 Lista Comprehension" />
       </list>
     </recent_temporary>
   </component>
